@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys 🖖🏼 <br> I'm Lucas Ferreira </h1>
-<h3 align="center">Junior Software Developer<br> 🤓💻🚀</h3>
+<h3 align="center">Back end Developer<br> 🤓💻🚀</h3>
 
 <p align="center">   🌱 I’m currently learning <strong>Oracle DB - PL/SQL - Java - Spring</strong>  </p>
 <p align="center">   📫 How to reach me <strong>lucas.efdrosa@gmail.com</strong> </p>
