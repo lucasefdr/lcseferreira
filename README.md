@@ -1,14 +1,17 @@
 ### <div align="center">I'm Lucas, a Junior Software Developer 👨🏻‍💻</div>  
-  
-- 📚 I’m currently studying on [Java Marathon](https://github.com/lucasefdr/Dev-Java-Marathon)  
-  
-
-- 🌱 I’m currently learning Java, Spring and Oracle DB  
+ 
+<div align=center>
+📚 I’m currently studying on <a href="https://github.com/lucasefdr/Dev-Java-Marathon">Java Marathon</a>
+</br>
+🌱 I’m currently learning Java, Spring and Oracle DB
+</div>
 
 <br/>  
 
-## Skills  
-<table><tr><td valign="top" width="33%">
+<div align=center>
+<h2> Technologies <h2>  
+
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -44,12 +47,12 @@
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 
-## Connect with me  
-<div align="center">
+<div align=center>
+<h2> Connect with me <h2>  
 <a href="https://github.com/lucasefdr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -57,11 +60,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+</div> 
 <br/>  
 
 
-## Github Stats  
+<div align=center>
+<h2> GitHub stats <h2>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucasefdr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  </div>
 <br />
