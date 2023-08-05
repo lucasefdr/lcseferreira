@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 <p align="center">
-🌱 I’m currently learning C#, ASP.NET, Angular
+🌱 I’m currently learning C# & ASP.NET
 </p>
 
 <h3 align="center">Connect with me:</h3>
