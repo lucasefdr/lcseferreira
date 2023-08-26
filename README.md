@@ -1,39 +1,33 @@
-<h1 align="center">Hi! I'm Lucas Ferreira 👽</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+# Hello, 👋 Welcome to my GitHub
 
-<p align="center">
-🌱 I’m currently learning C# & ASP.NET
-</p>
+I'm Lucas, and I'm thrilled to have you here. Let's dive into a bit about me and what you'll discover in this space.
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/lucaseduardofdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaseduardofdr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22343261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22343261" height="30" width="40" /></a>
-<a href="https://medium.com/@lucaseduardofdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lucaseduardofdr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lucasefdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lucasefdr" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- 
-  <br>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <br>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-</p>
+I'm a passionate software developer hailing from the vibrant land of Brazil. With a heart set on coding and a mind brimming with creativity, I've been navigating the world of technology to create innovative solutions to real-world challenges.
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasefdr&show_icons=true&locale=en&layout=compact" alt="lucasefdr" /></p>
+## Current Journey
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasefdr&show_icons=true&locale=en" alt="lucasefdr" /></p>
+- **Location:** I proudly call Brazil my home, and I'm immersed in its diverse culture and dynamic tech scene.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasefdr&" alt="lucasefdr" /></p>
-</div>
+- **Professional Life:** Currently, I'm working at TOTVS, a prominent company in Brazil. As part of this journey, I'm actively contributing to the technological landscape and learning from the best in the field.
+
+- **Learning Path:** My current learning adventure revolves around a trio of technologies: **C#**, **Oracle SQL**, and **Java**. The world of programming languages and databases fascinates me, and I'm committed to mastering these tools.
+
+## Repository Highlights
+
+- **Projects:** Here, you'll find a collection of projects that mirror my exploration of different technologies and coding concepts. Each project holds a piece of my learning journey and my desire to create meaningful applications.
+
+- **Learning Progress:** I believe in documenting my learning process. You might stumble upon repositories dedicated to notes, exercises, and resources related to C#, Oracle SQL, and Java. Feel free to learn and grow along with me.
+
+## Let's Connect
+
+Collaboration and connection are two pillars of growth. I'm excited to engage with fellow developers, learners, and enthusiasts. Whether you're interested in sharing insights, discussing technology, or just connecting, I'm here and eager to connect.
+
+## Get in Touch
+
+- **Social Media:** Connect with me on [LinkedIn](https://www.linkedin.com/in/lucaseduardofdr/).
+
+## Thank You
+
+Thank you for visiting my GitHub profile. I'm thrilled to share my journey and insights with you. Let's learn, build, and create together as we journey through the exciting world of technology! 🚀
