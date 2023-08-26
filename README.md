@@ -27,7 +27,3 @@ Collaboration and connection are two pillars of growth. I'm excited to engage wi
 ## Get in Touch
 
 - **Social Media:** Connect with me on [LinkedIn](https://www.linkedin.com/in/lucaseduardofdr/).
-
-## Thank You
-
-Thank you for visiting my GitHub profile. I'm thrilled to share my journey and insights with you. Let's learn, build, and create together as we journey through the exciting world of technology! 🚀
