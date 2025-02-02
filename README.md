@@ -18,7 +18,7 @@ I'm a passionate software developer hailing from the vibrant land of Brazil. Wit
 
 - **Projects:** Here, you'll find a collection of projects that mirror my exploration of different technologies and coding concepts. Each project holds a piece of my learning journey and my desire to create meaningful applications.
 
-- **Learning Progress:** I believe in documenting my learning process. You might stumble upon repositories dedicated to notes, exercises, and resources related to C#, Oracle SQL, and Java. Feel free to learn and grow along with me.
+- **Learning Progress:** I believe in documenting my learning process. You might stumble upon repositories dedicated to notes, exercises, and resources related to C# and Oracle SQL. Feel free to learn and grow along with me.
 
 ## Let's Connect
 
