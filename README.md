@@ -12,7 +12,7 @@ I'm a passionate software developer hailing from the vibrant land of Brazil. Wit
 
 - **Professional Life:** Currently, I'm working at TOTVS, a prominent company in Brazil. As part of this journey, I'm actively contributing to the technological landscape and learning from the best in the field.
 
-- **Learning Path:** My current learning adventure revolves around a trio of technologies: **C#**, **Oracle SQL**, and **Java**. The world of programming languages and databases fascinates me, and I'm committed to mastering these tools.
+- **Learning Path:** My current learning adventure revolves around a trio of technologies: **C#** and **Oracle SQL**. The world of programming languages and databases fascinates me, and I'm committed to mastering these tools.
 
 ## Repository Highlights
 
